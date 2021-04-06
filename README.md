@@ -1,1 +1,1 @@
-# Mini-Project-1
+Project to edit a small site about you
